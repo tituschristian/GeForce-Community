@@ -1,0 +1,24 @@
+/* Empty. Add your own CSS if you like */
+.bg-cloud {
+  
+
+background: #232526; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #232526 , #414345); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #232526 , #414345); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        
+}
+
+
+.tabs-icon-top,
+.tabs-icon-top .tab,
+.tabs-icon-top .tab .nav-view-home {
+    color: #76b900 !important;
+}
+
+.bar.bar-dark .title {
+	color: #76b900 !important;
+}
+
+.testingc {
+	color: #76b900 !important;
+}
